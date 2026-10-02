@@ -1,6 +1,6 @@
 # Entregas y Prácticas - Aplicaciones Web (4-C)
 
-**Alumno:** Santiago Asahel Pech  
+**Alumnos:** Oscar Michel Matos May & Santiago Asahel Pech Aké  
 **Materia:** Aplicaciones Web (4-C)  
 **Profesor:** Moreno  
 
